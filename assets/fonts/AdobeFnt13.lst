@@ -1,0 +1,258 @@
+%!Adobe-FontList 1.13
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:DecaSerifNew-Regular
+FamilyName:Deca Serif New
+StyleName:Regular
+FullName:Deca Serif New
+MenuName:Deca Serif New
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\PS\For Ipad\Specproect Japan\Document fonts\DNF55.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:134592
+FileModTime:1496311760
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozGoPr6N-Regular
+FamilyName:Kozuka Gothic Pr6N
+StyleName:R
+FullName:Kozuka Gothic Pr6N R
+MenuName:Kozuka Gothic Pr6N R
+StyleBits:0
+FamilyNameNative:小塚ゴシック Pr6N
+StyleNameNative:R
+FullNameNative:小塚ゴシック Pr6N R
+WritingScript:Japanese
+OutlineFileName:D:\PS\For Ipad\Specproect Japan\Document fonts\KozGoPr6N-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:5439252
+FileModTime:1265279158
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Mediator-NarrowLight
+FamilyName:Mediator Narrow
+StyleName:Light
+FullName:Mediator Narrow Light
+MenuName:Mediator Narrow Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\PS\For Ipad\Specproect Japan\Document fonts\MDN47_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:91588
+FileModTime:1461757120
+WeightClass:350
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Mediator-NarrowExtraBold
+FamilyName:Mediator Narrow
+StyleName:Extra Bold
+FullName:Mediator Narrow Extra Bold
+MenuName:Mediator Narrow Extra Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\PS\For Ipad\Specproect Japan\Document fonts\MDN87_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:95092
+FileModTime:1461757134
+WeightClass:800
+WidthClass:3
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Mediator-Light
+FamilyName:Mediator
+StyleName:Light
+FullName:Mediator Light
+MenuName:Mediator Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\PS\For Ipad\Specproect Japan\Document fonts\MDT45_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:129108
+FileModTime:1461757186
+WeightClass:350
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Mediator-Regular
+FamilyName:Mediator
+StyleName:Regular
+FullName:Mediator
+MenuName:Mediator
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\PS\For Ipad\Specproect Japan\Document fonts\MDT55_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:127956
+FileModTime:1461757202
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Mediator-Bold
+FamilyName:Mediator
+StyleName:Bold
+FullName:Mediator Bold
+MenuName:Mediator Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\PS\For Ipad\Specproect Japan\Document fonts\MDT75_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:131040
+FileModTime:1461757216
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Mediator-Black
+FamilyName:Mediator
+StyleName:Black
+FullName:Mediator Black
+MenuName:Mediator Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\PS\For Ipad\Specproect Japan\Document fonts\MDT95_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:135416
+FileModTime:1461757246
+WeightClass:900
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Probel
+FamilyName:Probel
+StyleName:Regular
+FullName:Probel
+MenuName:Probel
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Cyrillic
+OutlineFileName:D:\PS\For Ipad\Specproect Japan\Document fonts\Probel.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:21464
+FileModTime:1420648456
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TTPollsScript-Bold
+FamilyName:TT Polls Script
+StyleName:Bold
+FullName:TT Polls Script Bold
+MenuName:TT Polls Script
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\PS\For Ipad\Specproect Japan\Document fonts\TypeType - TT Polls Script Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:262780
+FileModTime:1501682638
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:TTMilks-Bold
+FamilyName:TT Milks
+StyleName:Bold
+FullName:TT Milks Bold
+MenuName:TT Milks
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\PS\For Ipad\Specproect Japan\Document fonts\TypeType - TTMilks-Bold_0.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:94244
+FileModTime:1494927048
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Wingdings-Regular
+FamilyName:Wingdings
+StyleName:Regular
+FullName:Wingdings
+MenuName:Wingdings
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\PS\For Ipad\Specproect Japan\Document fonts\wingding.ttf
+DataFormat:sfntData
+FileLength:83740
+FileModTime:1244666661
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
