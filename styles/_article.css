@@ -8,7 +8,9 @@
 }
 
 .article__accent {
-    font-weight: 900;
+    text-transform: uppercase;
+    font-family: 'Mediator Narrow ExtraBold';
+    font-size: 15px;
 }
 
 .article__part p {
@@ -22,4 +24,15 @@
 
 .article__image {
     width: 100%;
+    margin: 37px 0px 55px 0px;
+}
+
+.article__image_tip {
+    width: auto;
+    height: 380px;
+    transform: translate(-23%);
+}
+
+.article p {
+    text-align: justify;
 }

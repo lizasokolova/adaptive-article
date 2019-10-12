@@ -7,7 +7,17 @@
     font-size: 19px;
 }
 
+.tips__list {
+    padding: 0;
+    list-style-type: none;
+}
+
 .tips__item {
-    font-family: "Mediator Narrow";
+    font-family: "Mediator Narrow Light";
     font-size: 19px;
+}
+
+.tips__item a {
+    text-decoration: none;
+    color: #d90000;
 }

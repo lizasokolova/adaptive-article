@@ -9,8 +9,13 @@
 }
 
 @font-face {
-    font-family: 'Mediator Narrow';
+    font-family: 'Mediator Narrow Light';
     src: url('../assets/fonts/MDN47_0.otf');
+}
+
+@font-face {
+    font-family: 'Mediator Narrow ExtraBold';
+    src: url('../assets/fonts/MDN87_0.otf');
 }
 
 @font-face {
