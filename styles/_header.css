@@ -1,0 +1,35 @@
+.header {}
+
+.header__journal-number {
+    border: 1px solid black;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.header__article-type {
+    font-size: 11px;
+    font-family: '';
+}
+
+.header__title {
+    font-family: 'Probel';
+    font-size: 45px;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+.header__subtitle {
+    font-family: 'Mediator Regular';
+    font-size: 20px;
+}
+
+.header__author {
+    font-family: 'Mediator Regular';
+    font-size: 18px;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.header__image {
+    width: 100%;
+}

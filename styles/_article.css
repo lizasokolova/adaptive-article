@@ -1,0 +1,25 @@
+.article {
+
+}
+
+.article__part {
+    font-family: 'Deca Serif New';
+    font-size: 18px;
+}
+
+.article__accent {
+    font-weight: 900;
+}
+
+.article__part p {
+    text-indent: 35px;
+    margin: 0;
+}
+
+.article__part_beginning p:first-child {
+    text-indent: 0px;
+}
+
+.article__image {
+    width: 100%;
+}

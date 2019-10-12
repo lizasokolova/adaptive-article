@@ -1,1 +1,9 @@
+/* assets */
+@import './fonts.css';
+
+/* BEM blocks */
 @import './_page.css';
+@import './_header.css';
+@import './_article.css';
+@import './_tips.css';
+
