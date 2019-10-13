@@ -1,7 +1,3 @@
-.header {
-    margin-bottom: 25px;
-}
-
 .header__journal-info {
     color: white;
     position: absolute;
@@ -22,12 +18,14 @@
     font-size: 11px;
     text-transform: uppercase;
     vertical-align: top;
+    margin-left: 10px;
 }
 
 .header__content-wrapper {
     margin: 70px 10px 0 10px;
     padding-left: 20px;
     border-left: 1px solid black;
+    box-sizing: border-box;
 }
 
 .header__title {
@@ -46,10 +44,27 @@
 }
 
 .header__author {
-    font-family: 'Mediator Regular';
-    font-size: 18px;
+    position: relative;
+    left: -20px;
+    bottom: -5px;
+    font-family: 'Mediator Narrow ExtraBold';
+    font-size: 19px;
+    letter-spacing: 1px;
     font-style: normal;
     font-weight: bold;
+    line-height: 1;
+}
+
+.header__author::before {
+    content: '';
+    display: inline-block;
+    background-image: url('../assets/img/pencil.png');
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-position: left;
+    padding-right: 9px;
+    width: 38px;
+    height: 23px;
 }
 
 .header__image {
@@ -73,7 +88,7 @@
 @media screen and (min-width: 768px) {
     .header__content-wrapper {
         width: 600px;
-        margin: 70px auto 0 auto;
+        margin: 30px auto 0 auto;
     }
 
     .header__title {
@@ -84,11 +99,23 @@
         position: relative;
         width: 600px;
         margin: 0 auto;
-        top: 0;
+        top: 30px;
         left: 0;
     }
 
+    .header__journal-number {
+        display: inline-block;
+        font-size: 25px;
+        padding: 7px 7px 2px 7px;
+    }
+
+    .header__article-type {
+        font-size: 18px;
+        margin-left: 15px;
+        line-height: 100%;
+    }
+
     .header__image {
-        top: -20px;
+        top: -42px;
     }
 }

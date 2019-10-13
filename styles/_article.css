@@ -1,10 +1,19 @@
-.article {
-
-}
-
 .article__part {
     font-family: 'Deca Serif New';
     font-size: 18px;
+    margin-top: 30px;
+}
+
+.article__part::before {
+    content: '';
+    display: block;
+    margin: 0 auto 30px auto;
+    width: 52px;
+    height: 15px;
+    background-image: url('../assets/img/star.png');
+    background-repeat: repeat-x;
+    background-size: auto 100%;
+    background-position: left;
 }
 
 .article__accent {
@@ -22,6 +31,14 @@
     text-indent: 0px;
 }
 
+.article__part_beginning::before {
+    display: none;
+}
+
+.article__aside {
+    margin-top: 35px;
+}
+
 .article__image {
     margin: 37px 0px 30px 0px;
 }
@@ -37,12 +54,13 @@
 
 .article__image_tip {
     margin-top: 20px;
+    overflow: hidden;
 }
 
 .article__image_tip img {
     width: auto;
     height: 380px;
-    transform: translate(-23%);
+    transform: translate(-20%);
 }
 
 .article p {
@@ -54,4 +72,11 @@
     text-decoration: none;
     color: black;
     font-size: 26px;
+}
+
+@media screen and (min-width: 768px) {
+    .article__image_tip img {
+        width: auto;
+        height: 630px;
+    }
 }
