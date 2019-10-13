@@ -119,3 +119,13 @@
         top: -42px;
     }
 }
+
+@media screen and (min-width: 1024px) {
+    .header__content-wrapper {
+        width: 900px;
+    }
+
+    .header__journal-info {
+        width: 900px;
+    }
+}

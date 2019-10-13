@@ -80,3 +80,9 @@
         height: 630px;
     }
 }
+
+@media screen and (min-width: 1024px) {
+    .article__image_tip img {
+        transform: translate(0);
+    }
+}

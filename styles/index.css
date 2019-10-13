@@ -2,8 +2,8 @@
 @import './fonts.css';
 
 /* BEM blocks */
-@import './_page.css';
-@import './_header.css';
-@import './_article.css';
-@import './_tips.css';
+@import './page.css';
+@import './header.css';
+@import './article.css';
+@import './tips.css';
 
