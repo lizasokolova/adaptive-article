@@ -23,11 +23,23 @@
 }
 
 .article__image {
+    margin: 37px 0px 30px 0px;
+}
+
+.article__image img {
     width: 100%;
-    margin: 37px 0px 55px 0px;
+}
+
+.article__image span {
+    font-size: 26px;
+    line-height: 100%;
 }
 
 .article__image_tip {
+    margin-top: 20px;
+}
+
+.article__image_tip img {
     width: auto;
     height: 380px;
     transform: translate(-23%);
@@ -35,4 +47,16 @@
 
 .article p {
     text-align: justify;
+    display: inline-block;
+}
+
+.article__anchor {
+    text-decoration: none;
+    color: black;
+    font-size: 26px;
+}
+
+
+.article__anchor_first-number {
+    text-align: right;
 }

@@ -15,9 +15,18 @@
 .tips__item {
     font-family: "Mediator Narrow Light";
     font-size: 19px;
+    margin-bottom: 7px;
 }
 
 .tips__item a {
     text-decoration: none;
     color: #d90000;
+}
+
+.tips__item:before {
+    content: "•";
+    font-size: 55px;
+    line-height: 20%;
+    vertical-align: middle;
+
 }
